@@ -249,7 +249,7 @@ button_4 = Button(
     image=button_image_4,
     borderwidth=0,
     highlightthickness=0,
-    command=lambda: webbrowser.open('https://github.com/AyoubSghuri/CNIX-v2.0'),
+    command=lambda: webbrowser.open('https://github.com/AyoubSghuri/DATA2QR'),
     relief="flat"
 )
 button_4.place(
