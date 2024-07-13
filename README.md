@@ -26,4 +26,4 @@ Ensure you have Python installed. You will also need the following Python packag
 You can install the required packages using pip:
 
 ```bash
-pip install pandas qrcode cryptography openpyxl tkinter opencv-python pyzbar
+py -m pip install -r requirements.txt
