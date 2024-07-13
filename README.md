@@ -29,6 +29,6 @@ You can install the required packages using pip:
 
 ```bash
 py -m pip install -r requirements.txt
-
+```
 ## Figma Design
 [Design on Figma](https://www.figma.com/design/4XR3R2uqHYhW7xpjfnLXsQ/QrAttendance?node-id=0-1&t=6coHXZSAY6BXXtcC-1)
