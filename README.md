@@ -2,7 +2,7 @@
 
 This project allows you to generate encrypted QR codes from an Excel file containing user data, and then scan and decode these QR codes to automatically fill out user details in a Tkinter interface.
 ## Screenshot
-![alt text](https://github.com/AyoubSghuri/Data2QR/blob/main/assets/front.png?raw=true)
+![alt text](https://github.com/AyyoubSghuri/Data2QR/blob/main/assets/front.png?raw=true)
 
 ## Features
 
